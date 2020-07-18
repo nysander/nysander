@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Paweł Madej.
+
+iOS developer by night, pharmacist by day
+Author of:
+* [Code Conf](http://bit.ly/codeconfapp)
+* [Family Graves Map](http://bit.ly/fgmapp)
+
+I post sometimes on my site [PawelMadej.com](https://pawelmadej.com)
+
+Open for cooperation. Feel free to contact me on Twitter: [PawelMadejCK](https://twitter.com/PawelMadejCK)
 <!--
 **nysander/nysander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
