@@ -6,6 +6,7 @@ iOS developer by night, pharmacist by day
 Author of:
 * [Code Conf](http://bit.ly/codeconfapp)
 * [Family Graves Map](http://bit.ly/fgmapp)
+* [TwitterText](https://github.com/nysander/twitter-text) and [UnicodeURL](https://github.com/nysander/UnicodeURL) Swift libraries
 
 I post sometimes on my site [PawelMadej.com](https://pawelmadej.com)
 
