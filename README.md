@@ -2,7 +2,7 @@
 
 I'm Paweł Madej.
 
-iOS developer by night, pharmacist by day
+iOS developer at ROMICO GmbH
 
 Author of:
 * [Code Conf](http://bit.ly/codeconfapp)
