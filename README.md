@@ -2,7 +2,7 @@
 
 I'm Paweł Madej.
 
-iOS developer at ROMICO GmbH
+iOS developer at Tedee
 
 Author of:
 * [Code Conf](http://bit.ly/codeconfapp)
