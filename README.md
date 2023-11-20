@@ -5,13 +5,14 @@ I'm Paweł Madej.
 iOS developer at Tedee
 
 Author of:
-* [Code Conf](http://bit.ly/codeconfapp)
-* [Family Graves Map](http://bit.ly/fgmapp)
 * [TwitterText](https://github.com/nysander/twitter-text) and [UnicodeURL](https://github.com/nysander/UnicodeURL) Swift libraries
+
+Currently inactive iOS apps
+* Code Conf
+* Family Graves Map]
 
 I post sometimes on my site [PawelMadej.com](https://pawelmadej.com)
 
-Open for cooperation. Feel free to contact me on Twitter: [PawelMadejCK](https://twitter.com/PawelMadejCK)
 <!--
 **nysander/nysander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
